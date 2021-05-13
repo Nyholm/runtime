@@ -11,7 +11,7 @@ want to use.
 To use with native or Symfony application.
 
 ```
-composer require runtime/google-cloud symfony/runtime
+composer require runtime/google-cloud
 ```
 
 If you want to use it with PSR-7.
